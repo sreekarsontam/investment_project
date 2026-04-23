@@ -1,11 +1,10 @@
-streamlit
-pandas
-numpy
-plotly
+streamlit==1.32.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.20.0
 yfinance
 requests
 spacy
-torch
 transformers
+torch
 openai
-
